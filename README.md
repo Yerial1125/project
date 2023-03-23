@@ -4,19 +4,19 @@
 ### 사용프로그램
 [streamlit](https://streamlit.io/)
 
-'''
+```
 
 pip install streamlit
 
-'''
+```
 
 ### 파이참 인터프리터 추가 설치
 
-'''
+```
 
 streamlit-folium
 
-'''
+```
 
 ### 대시보드 구성 및 변수
 
